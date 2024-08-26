@@ -8,7 +8,7 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 
 ## 🧐 Processo de Criação
 ![Trajetoria de input e prompt](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
-![Trajetoria de input e prompt 'Fonte:.wallpapers.com']([inputs/Print Microsoft Copilot.jpg](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
+![Imagem para input 'Fonte:.wallpapers.com'](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
 
 1. Para o prompt de entrada, carreguei a imagem de input e digitei o
 

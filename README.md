@@ -21,6 +21,10 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 
 Aqui estão as imagens geradas pelo prompts inseridos:
 
+
+<img src="output/stewieA01.jpg"
+width="30" height="20" 
+title="Prompt 01" alt="Prompt 01">
 ![Prompt 01](output/stewieA01.jpg)
 ![Prompt 01](output/stewieA02.jpg)
 ![Prompt Var 01](output/stewieB01.jpg)

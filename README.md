@@ -1,7 +1,7 @@
 # Desafio final do curso Microsoft & DIO de Microsoft Copilot
 
 ## 📒 Descrição
-Neste projeto, criei uma modificação de uma ilustração do personagem da série <‘The Family Guy’>. O objetivo dessa modificação era dar ao personagem o aspecto e as características de um personagem da <Pixar>.
+Neste projeto, criei uma modificação de uma ilustração do personagem da série ‘The Family Guy’. O objetivo dessa modificação era dar ao personagem o aspecto e as características de um personagem da Pixar.
 
 ## 🤖 Tecnologias Utilizadas
 - **[Microsoft Copilot](https://copilot.microsoft.com/)** para gerar as imagens.

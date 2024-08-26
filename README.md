@@ -18,7 +18,16 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 5. E por final usei uma variação sugerida pelo próprio Copilot: **Mude a iluminação para parecer um dia ensolarado no Brasil**
 
 ## 🚀 Resultados
-[LINK PARA ASSISTIR O VÍDEO AQUI](https://www.youtube.com/shorts/qsefr2iPwMY)
+
+Aqui estão as imagens geradas pelo prompts inseridos:
+
+[Prompt 01](output/stewieA01.jfif)
+[Prompt 01](output/stewieA02.jfif)
+[Prompt Var 01](output/stewieB01.jfif)
+[Prompt Var 01](output/stewieB02.jfif)
+[Prompt Var 02](output/stewieC01.jfif)
+[Prompt Var 03](output/stewieD01.jfif)
+[Prompt Var 03](output/stewieD02.jfif)
 
 ## 💭 Reflexão
 A inteligência artificial já é uma realidade na minha área de atuação, o audiovisual. No meu caso, ela otimizou diversos aspectos do meu trabalho, incluindo a criação de legendas, vozes sintéticas, imagens e, mais recentemente, até vídeos. Acredito que há muito a ser discutido em relação à ética no uso das IAs para o audiovisual e o cinema. No entanto, para mim, essa tecnologia tem sido uma excelente ferramenta de auxílio e otimização do trabalho. 

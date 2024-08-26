@@ -8,7 +8,7 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 
 ## 🧐 Processo de Criação
 
-![Imagem para input 'Fonte:.wallpapers.com'](inputs/family-guy-stewie-griffin.jpg =250x250)
+![Imagem para input 'Fonte:.wallpapers.com'](inputs/family-guy-stewie-griffin.jpg) {: width="50%"}
 ![Trajetoria de input e prompt](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
 
 1. Para o prompt de entrada, carreguei a imagem de input e digitei o seguinte prompt:  **A imagem anexada é de um desenho popular chamado The Family Guy, o personagem em questão é Stewie Griffin. Quero que trasforme a imagem que está em 2D para um imagem no estilo Pixar.**

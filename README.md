@@ -7,7 +7,7 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 - **[Microsoft Copilot](https://copilot.microsoft.com/)** para gerar as imagens.
 
 ## 🧐 Processo de Criação
-![Imagem usada para o input e prompt '[Fonte:(https://pt.wallpapers.com/)']](URL_da_Imagem)
+![Imagem usada para o input e prompt '[Fonte:(https://pt.wallpapers.com/)']](inputs/Print Microsoft Copilot.jpg)
 
 1. Para o prompt de entrada, carreguei a imagem de input e digitei o
 

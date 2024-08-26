@@ -21,7 +21,7 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 
 Aqui estão as imagens geradas pelo prompts inseridos:
 
-[Prompt 01](output/stewieA01.jfif)
+[Prompt 01]([output/stewieA01.jfif](https://raw.githubusercontent.com/tastiago/Desafio-Final-DIO/main/output/stewieA01.jfif))
 [Prompt 01](output/stewieA02.jfif)
 [Prompt Var 01](output/stewieB01.jfif)
 [Prompt Var 01](output/stewieB02.jfif)

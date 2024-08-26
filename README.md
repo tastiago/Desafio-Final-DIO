@@ -47,5 +47,5 @@ width="300" height="300"
 title="Prompt Var 03" alt="Prompt Var 03">
 
 ## 💭 Reflexão
-A inteligência artificial já é uma realidade na minha área de atuação, o audiovisual. No meu caso, ela otimizou diversos aspectos do meu trabalho, incluindo a criação de legendas, vozes sintéticas, imagens e, mais recentemente, até vídeos. Acredito que há muito a ser discutido em relação à ética no uso das IAs para o audiovisual e o cinema. No entanto, para mim, essa tecnologia tem sido uma excelente ferramenta de auxílio e otimização do trabalho. 
+Me diverti muito fazendo esse projeto, mostra o quanto as IAs podem, através da nossa imaginação, nos ajudar a fazer criações incríveis. Nesse projeto usei uma imagem com direitos autorais, obvio que para fins educativos, é preciso muita discussão sobre propriedade intelectual e ética para que possamos trilhar um caminho justo no uso das IAs.
 ```

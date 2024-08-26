@@ -9,7 +9,7 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 ## 🧐 Processo de Criação
 
 <img src="inputs/family-guy-stewie-griffin.jpg"
-width="320" height="300" 
+width="350" height="300" 
 title="Imagem para input 'Fonte:.wallpapers.com'" alt="Imagem para input">
 ![Trajetoria de input e prompt](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
 

@@ -8,7 +8,9 @@ Neste projeto, criei uma modificação de uma ilustração do personagem da sér
 
 ## 🧐 Processo de Criação
 
-![Imagem para input 'Fonte:.wallpapers.com'](inputs/family-guy-stewie-griffin.jpg) {: width="50%"}
+<img src="inputs/family-guy-stewie-griffin.jpg"
+width="300" height="300" 
+title="Imagem para input 'Fonte:.wallpapers.com'" alt="Imagem para input">
 ![Trajetoria de input e prompt](https://github.com/tastiago/Desafio-Final-DIO/blob/cd9df24525614e9c2d0597c35b64986b084ff22e/inputs/Print%20Microsoft%20Copilot.jpg)
 
 1. Para o prompt de entrada, carreguei a imagem de input e digitei o seguinte prompt:  **A imagem anexada é de um desenho popular chamado The Family Guy, o personagem em questão é Stewie Griffin. Quero que trasforme a imagem que está em 2D para um imagem no estilo Pixar.**
@@ -25,27 +27,21 @@ Aqui estão as imagens geradas pelo prompts inseridos:
 <img src="output/stewieA01.jpg"
 width="300" height="300" 
 title="Prompt 01" alt="Prompt 01">
-
 <img src="output/stewieA02.jpg"
 width="300" height="300" 
 title="Prompt 01" alt="Prompt 01">
-
 <img src="output/stewieB01.jpg"
 width="300" height="300" 
 title="Prompt Var 01" alt="Prompt Var 01">
-
 <img src="output/stewieB02.jpg"
 width="300" height="300" 
 title="Prompt Var 01" alt="Prompt Var 01">
-
 <img src="output/stewieC01.jpg"
 width="300" height="300" 
 title="Prompt Var 02" alt="Prompt Var 02">
-
 <img src="output/stewieD01.jpg"
 width="300" height="300" 
 title="Prompt Var 03" alt="Prompt Var 03">
-
 <img src="output/stewieD02.jpg"
 width="300" height="300" 
 title="Prompt Var 03" alt="Prompt Var 03">

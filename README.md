@@ -23,15 +23,32 @@ Aqui estão as imagens geradas pelo prompts inseridos:
 
 
 <img src="output/stewieA01.jpg"
-width="30" height="20" 
+width="300" height="300" 
 title="Prompt 01" alt="Prompt 01">
-![Prompt 01](output/stewieA01.jpg)
-![Prompt 01](output/stewieA02.jpg)
-![Prompt Var 01](output/stewieB01.jpg)
-![Prompt Var 01](output/stewieB02.jpg)
-![Prompt Var 02](output/stewieC01.jpg)
-![Prompt Var 03](output/stewieD01.jpg)
-![Prompt Var 03](output/stewieD02.jpg)
+
+<img src="output/stewieA02.jpg"
+width="300" height="300" 
+title="Prompt 01" alt="Prompt 01">
+
+<img src="output/stewieB01.jpg"
+width="300" height="300" 
+title="Prompt Var 01" alt="Prompt Var 01">
+
+<img src="output/stewieB02.jpg"
+width="300" height="300" 
+title="Prompt Var 01" alt="Prompt Var 01">
+
+<img src="output/stewieC01.jpg"
+width="300" height="300" 
+title="Prompt Var 02" alt="Prompt Var 02">
+
+<img src="output/stewieD01.jpg"
+width="300" height="300" 
+title="Prompt Var 03" alt="Prompt Var 03">
+
+<img src="output/stewieD02.jpg"
+width="300" height="300" 
+title="Prompt Var 03" alt="Prompt Var 03">
 
 ## 💭 Reflexão
 A inteligência artificial já é uma realidade na minha área de atuação, o audiovisual. No meu caso, ela otimizou diversos aspectos do meu trabalho, incluindo a criação de legendas, vozes sintéticas, imagens e, mais recentemente, até vídeos. Acredito que há muito a ser discutido em relação à ética no uso das IAs para o audiovisual e o cinema. No entanto, para mim, essa tecnologia tem sido uma excelente ferramenta de auxílio e otimização do trabalho. 
